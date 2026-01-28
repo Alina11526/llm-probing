@@ -1,0 +1,111 @@
+{
+    "拿": {
+      "take": {
+        "sense_id": "take",
+        "label_zh": "拿取实物",
+        "gloss_en": "to grasp and take a physical object with the hand",
+        "relation_type": "proto"
+      },
+        "control": {
+        "sense_id": "control",
+        "label_zh": "控制、掌控",
+        "gloss_en": "to have control or power over something abstract",
+        "relation_type": "metaphorical",
+        "relation_type_zh": "隐喻连接",
+        "derived_from": "拿取实物"
+      },
+      "occupy": {
+        "sense_id": "occupy",
+        "label_zh": "攻下，占领",
+        "gloss_en": "to have control or power over something abstract",
+        "relation_type": "image schema",
+        "relation_type_zh": "意象图式转换",
+        "derived_from": "拿取实物"
+      }
+      
+    },
+    "走": {
+      "walk": {
+        "sense_id": "walk",
+        "label_zh": "行走",
+        "gloss_en": "move by putting one foot in front of the other",
+        "relation_type": "proto"
+      },
+        "move": {
+        "sense_id": "move",
+        "label_zh": "移动",
+        "gloss_en": "general movement",
+        "relation_type": "image schema",
+        "relation_type_zh": "意象图式转换",
+        "derived_from": "行走"
+      },
+      "social_contact": {
+        "sense_id": "social_contact",
+        "label_zh": "往来，社交",
+        "gloss_en": "to have social contact with people",
+        "relation_type": "metaphorical",
+        "relation_type_zh": "隐喻连接",
+        "derived_from": "移动"
+      }
+      
+    },
+    "吃": {
+      "eat": {
+        "sense_id": "eat",
+        "label_zh": "把东西送进口中咽下",
+        "gloss_en": "Swallow the food",
+        "relation_type": "proto"
+      },
+        "feel": {
+        "sense_id": "feel",
+        "label_zh": "感受",
+        "gloss_en": "hava a kind of feeling",
+        "relation_type": "metaphorical",
+        "relation_type_zh": "隐喻连接",
+        "derived_from": "把东西送进口中咽下"
+      },
+      "bear": {
+        "sense_id": "bear",
+        "label_zh": "忍受，承受",
+        "gloss_en": "to bear something",
+        "relation_type": "metaphorical",
+        "relation_type_zh": "隐喻连接",
+        "derived_from": "把东西送进口中咽下"
+      }
+      
+    },
+    "开": {
+      "open": {
+        "sense_id": "open",
+        "label_zh": "启，张，把关闭的东西打开",
+        "gloss_en": "open a thing that is closed",
+        "relation_type": "proto"
+      },
+        "cut_through": {
+        "sense_id": "cut_through",
+        "label_zh": "贯通，使通",
+        "gloss_en": "Break through the internal blockages",
+        "relation_type": "image schema",
+        "relation_type_zh": "意象图式转换",
+        "derived_from": "启，张，把关闭的东西打开"
+      },
+      "enlarge": {
+        "sense_id": "enlarge",
+        "label_zh": "扩大",
+        "gloss_en": "expand something",
+        "relation_type": "metaphorical",
+        "relation_type_zh": "隐喻连接",
+        "derived_from": "启，张，把关闭的东西打开"
+      },
+      "seperate": {
+        "sense_id": "seperate",
+        "label_zh": "分割",
+        "gloss_en": "seperate connected things",
+        "relation_type": "image schema",
+        "relation_type_zh": "意象图式转换",
+        "derived_from": "启，张，把关闭的东西打开"
+      }
+      
+    }
+  }
+  

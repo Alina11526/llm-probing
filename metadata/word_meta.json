@@ -1,0 +1,33 @@
+
+  
+  {
+    "拿": {
+      "protoscene": {
+        "label_zh": "用手抓取并持有实物",
+        "gloss_en": "grasp and hold a physical object with the hand"
+      },
+      "senses": ["take", "control", "occupy"]
+    },
+    "走": {
+      "protoscene": {
+        "label_zh": "通过一只脚跟着另一只脚的方式移动",
+        "gloss_en":"move by putting one foot in front of the other"
+      },
+      "senses": [ "walk","move","social_contact"]      
+    },
+    "开": {
+      "protoscene": {
+        "label_zh": "通过一只脚跟着另一只脚的方式移动",
+        "gloss_en":"open the things that are closed"
+      },
+      "senses": [ "open","cut_through","enlarge","seperate"]      
+    },
+    "吃": {
+        "protoscene": {
+          "label_zh": "把东西送进口中咽下",
+          "gloss_en":"Swallow the food"
+        },
+        "senses": [ "eat","feel","bear"]      
+      }
+  }
+  
