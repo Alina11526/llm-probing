@@ -1,15 +1,12 @@
 # LLM Probing for Polysemy Understanding
 
-This repository contains code and materials for a CHI poster submission investigating
+This repository contains code and materials for investigating
 the semantic understanding of large language models (LLMs) through probing tasks.
 
 The project examines how different models handle polysemous words in Chinese,
 with probing questions designed to target distinct components of semantic cognition,
 including protoscene recognition, subtle sense distinction, and sense relation identification.
 
-## Status
-This repository is currently provided for anonymous review purposes.
-Code and full documentation will be released upon acceptance.
 
 ## Project Overview
 The study evaluates:
